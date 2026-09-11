@@ -14,6 +14,15 @@ This dashboard provides a centralized view of financial performance and helps st
 - Analyze transaction types, fees, and taxes
 - Explore customer demographics
 - Drill through to detailed transaction records
+## 📸 Dashboard Preview
+
+### Executive Finance Analysis
+
+![Finance Analysis Dashboard](Screenshot%20_Preview_Analysis.png)
+
+### Transaction Details
+
+![Transaction Details Dashboard](Screenshot%20_Transaction.png)
 
 ## 🎛️ Dashboard Filters
 
